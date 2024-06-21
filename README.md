@@ -14,8 +14,14 @@ This is a simple web-based Quiz Application developed to test your knowledge on 
 
 ## Screenshot
 
-![image](https://github.com/luckyverma22k/Quiz_App/assets/97178817/b65165c9-73c7-465f-9848-ed5820395181)
+![Quiz App Screenshot](https://github.com/luckyverma22k/Quiz_App/assets/97178817/b65165c9-73c7-465f-9848-ed5820395181)
 
+![image](https://github.com/luckyverma22k/Quiz_App/assets/97178817/b3bf8f0d-f7e7-4e46-b174-d321edd5e340)
+
+
+## Live Demo
+
+Check out the live demo of the project [here](https://quiz-app-mu-silk.vercel.app/).
 
 ## Technologies Used
 
@@ -35,10 +41,7 @@ To run this project locally, follow these steps:
     ```bash
     cd quiz-app
     ```
-3. Open `index.html` in your web browser:
-    ```bash
-    open index.html
-    ```
+3. Open `index.html` in your web browser.
 
 ## Project Structure
 
@@ -55,9 +58,7 @@ During this project, I learned and practiced the following:
 - **CSS Styling**: Applying custom styles to create an appealing user interface.
 - **JavaScript Logic**: Implementing logic to handle quiz flow, score calculation, and displaying results.
 
-
-
-
+## Contact
 
 [Lucky](https://github.com/luckyverma22k)
 
